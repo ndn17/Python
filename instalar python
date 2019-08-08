@@ -5,6 +5,8 @@ apt-get install python3-pip
 which pip
 which pip3
 
+si queremos instalar un ntorno virtual con python2 o 3 colocar por defecto el que queremos usar , para que asi tambien tenga estepor defecto el entono virtual
+
 pip install virtualenv
 pip3 install virtualenv
 
