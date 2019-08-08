@@ -19,6 +19,10 @@ source nombre_entorno_virtual/bin/activate
 deactivate
 
 
+DJANGO
+pip install django
+pip freeze
+
 
 
 
